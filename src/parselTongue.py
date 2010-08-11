@@ -1,5 +1,4 @@
 import re, sys
-from curses import textpad
 from string import maketrans
 
 Operators = {
