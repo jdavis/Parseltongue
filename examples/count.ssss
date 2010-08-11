@@ -1,0 +1,24 @@
+# push 1
+Ssssssssss-s
+# label
+Sssssss-sssssssss ssssssssssssssssssss
+# push 1
+Ssssssssss-S
+# add
+Ssssss-ss
+# duplicate
+Ssssssss-ssssssssssss
+# output num
+Sssssssss-ssss
+# push 10
+Ssssssssss-SsSs
+# output char
+Sssssssss-sss
+# duplicate
+Ssssssss-ssssssssssss
+# push 10
+Ssssssssss-SSS
+# subtract
+Ssssss-sssssssss
+# jump to label if positive
+Sssssss-ssssssss ssssssssssssssssssss
